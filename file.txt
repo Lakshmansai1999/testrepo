@@ -1,2 +1,2 @@
 hi hello demo
-hello welcome to my terminal
+hello welcome
